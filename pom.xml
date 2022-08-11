@@ -14,4 +14,8 @@
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
 
+    <modules>
+        <module>homeWork_1</module>
+    </modules>
+
 </project>
